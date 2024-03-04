@@ -1,0 +1,514 @@
+.home8 {
+  position: relative;
+  text-transform: capitalize;
+}
+.nav1-child1 {
+  width: 3px;
+  position: relative;
+  border-top: 1px solid var(--b1);
+  box-sizing: border-box;
+  height: 1px;
+  opacity: 0;
+}
+.nav14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav1-child2 {
+  width: 16px;
+  position: relative;
+  border-top: 1px solid var(--b1);
+  box-sizing: border-box;
+  height: 1px;
+}
+.nav-bar5 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 55px;
+}
+.signup3 {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.signup2 {
+  position: absolute;
+  top: 0;
+  left: 698px;
+  border-radius: var(--br-8xs);
+  background-color: var(--p1);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-mini);
+  color: var(--color-white);
+}
+.login1 {
+  position: absolute;
+  top: 5px;
+  left: 599px;
+  font-size: var(--input-size);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--p1);
+}
+.nav-bar4 {
+  position: absolute;
+  top: 46px;
+  left: 508px;
+  width: 786px;
+  height: 34px;
+  font-family: var(--validation);
+}
+.skillshare-logo-1-icon1 {
+  position: absolute;
+  top: 55px;
+  left: 101px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.list-of-available {
+  position: absolute;
+  top: 230px;
+  left: 493px;
+  font-size: var(--font-size-29xl);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--b2);
+  text-align: center;
+}
+.card-1-item {
+  width: 274px;
+  position: relative;
+  border-radius: var(--br-mini);
+  height: 360px;
+  object-fit: cover;
+}
+.gaming {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.description4 {
+  width: 59px;
+  position: relative;
+  height: 24px;
+}
+.card-11 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px 0;
+}
+.description5,
+.description6,
+.description7 {
+  width: 56px;
+  position: relative;
+  height: 24px;
+}
+.description6,
+.description7 {
+  width: 51px;
+}
+.description7 {
+  width: 96px;
+}
+.card-hover1 {
+  position: absolute;
+  top: 889px;
+  left: 142px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 20px;
+  font-size: var(--font-size-xl);
+}
+.description8,
+.description9 {
+  width: 90px;
+  position: relative;
+  height: 24px;
+}
+.description9 {
+  width: 54px;
+}
+.description10,
+.description11 {
+  width: 50px;
+  position: relative;
+  height: 24px;
+}
+.description11 {
+  width: 125px;
+}
+.card-hover2 {
+  position: absolute;
+  top: 1380px;
+  left: 142px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 20px;
+  font-size: var(--font-size-xl);
+}
+.bottom5,
+.v-yage2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bottom5 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--p1);
+}
+.v-yage2 {
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.reshot-icon-travel-abroad-uhrq2 {
+  position: absolute;
+  top: 10px;
+  left: 27px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.get-out-and2,
+.logo5 {
+  position: absolute;
+  left: 0;
+}
+.logo5 {
+  top: 0;
+  width: 165px;
+  height: 59px;
+}
+.get-out-and2 {
+  top: 63px;
+  font-size: var(--label-size);
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.logo4 {
+  position: absolute;
+  height: 44.39%;
+  width: 27.87%;
+  top: 19.79%;
+  right: 131.85%;
+  bottom: 35.83%;
+  left: -59.71%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.quick-links5 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.contact-us4,
+.explore3,
+.home12,
+.privacy-policy2,
+.quick-links5,
+.write-to-us2 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home12 {
+  top: 25.13%;
+  color: var(--color-white);
+}
+.contact-us4,
+.explore3,
+.privacy-policy2,
+.write-to-us2 {
+  top: 46.52%;
+}
+.contact-us4,
+.privacy-policy2,
+.write-to-us2 {
+  top: 67.91%;
+}
+.contact-us4,
+.privacy-policy2 {
+  top: 89.3%;
+}
+.privacy-policy2 {
+  top: 110.7%;
+  display: none;
+}
+.quick-links4 {
+  position: absolute;
+  height: 100%;
+  width: 19.11%;
+  top: 0;
+  right: 80.89%;
+  bottom: 0;
+  left: 0;
+}
+.popular-destination2 {
+  position: absolute;
+  top: 43.93%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.vacation-packages2 {
+  position: absolute;
+  top: 81.31%;
+}
+.gallery2,
+.list-of-tours2,
+.vacation-packages2 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.list-of-tours2 {
+  position: absolute;
+  top: 118.69%;
+  display: none;
+}
+.gallery2 {
+  top: 156.07%;
+}
+.features4,
+.gallery2,
+.travel-on-a2 {
+  position: absolute;
+  display: none;
+}
+.travel-on-a2 {
+  top: 193.46%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.features4 {
+  height: 57.22%;
+  width: 23.09%;
+  top: 0;
+  right: 39.97%;
+  bottom: 42.78%;
+  left: 36.94%;
+}
+.icons8-facebook-32-12 {
+  position: absolute;
+  height: 40.51%;
+  width: 27.12%;
+  top: 52.03%;
+  right: 72.88%;
+  bottom: 7.47%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icons8-instagram-circle-14,
+.icons8-twitter-12 {
+  position: absolute;
+  height: 37.97%;
+  width: 25.42%;
+  top: 51.9%;
+  right: 38.14%;
+  bottom: 10.13%;
+  left: 36.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons8-twitter-12 {
+  height: 56.96%;
+  width: 38.14%;
+  top: 43.04%;
+  right: 0;
+  bottom: 0;
+  left: 61.86%;
+}
+.follow-us2,
+.icon2 {
+  position: absolute;
+  top: 0;
+}
+.follow-us2 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.icon2 {
+  height: 42.25%;
+  width: 18.79%;
+  right: 0;
+  bottom: 57.75%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-15 {
+  position: absolute;
+  height: 16.04%;
+  width: 4.78%;
+  top: 46.52%;
+  right: 20.22%;
+  bottom: 37.43%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav2 {
+  position: absolute;
+  height: 46.87%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.63%;
+  bottom: 31.58%;
+  left: 35.76%;
+}
+.bottom4 {
+  position: absolute;
+  top: 1891px;
+  left: -10px;
+  width: 1440px;
+  height: 399px;
+  color: var(--b6);
+}
+.skillshare-logo-3-icon {
+  position: absolute;
+  top: 2034px;
+  left: 133px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.logo6 {
+  position: absolute;
+  height: 36.56%;
+  width: 27.87%;
+  top: 16.3%;
+  right: 131.85%;
+  bottom: 47.14%;
+  left: -59.71%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.contact-us5,
+.explore4,
+.home13,
+.privacy-policy3,
+.write-to-us3 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home13 {
+  top: 20.7%;
+  color: var(--color-white);
+}
+.contact-us5,
+.explore4,
+.privacy-policy3,
+.write-to-us3 {
+  top: 38.33%;
+}
+.contact-us5,
+.privacy-policy3,
+.write-to-us3 {
+  top: 55.95%;
+}
+.contact-us5,
+.privacy-policy3 {
+  top: 73.57%;
+}
+.privacy-policy3 {
+  top: 91.19%;
+}
+.features6,
+.icon3,
+.quick-links6 {
+  position: absolute;
+  height: 100%;
+  width: 18.95%;
+  top: 0;
+  right: 81.05%;
+  bottom: 0;
+  left: 0;
+}
+.features6,
+.icon3 {
+  height: 47.14%;
+  width: 19.27%;
+  right: 43.79%;
+  bottom: 52.86%;
+  left: 36.94%;
+}
+.icon3 {
+  height: 34.8%;
+  width: 18.79%;
+  right: 0;
+  bottom: 65.2%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-17 {
+  position: absolute;
+  height: 13.22%;
+  width: 4.78%;
+  top: 38.33%;
+  right: 20.22%;
+  bottom: 48.46%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav3 {
+  position: absolute;
+  height: 56.89%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.63%;
+  bottom: 21.55%;
+  left: 35.76%;
+}
+.skills {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2290px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--label-size);
+  color: var(--b1);
+  font-family: var(--font-advent-pro);
+}

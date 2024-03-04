@@ -1,0 +1,236 @@
+.bottom21,
+.v-yage10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bottom21 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--p1);
+}
+.v-yage10 {
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.reshot-icon-travel-abroad-uhrq10 {
+  position: absolute;
+  top: 10px;
+  left: 27px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.get-out-and10,
+.logo21 {
+  position: absolute;
+  left: 0;
+}
+.logo21 {
+  top: 0;
+  width: 165px;
+  height: 59px;
+}
+.get-out-and10 {
+  top: 63px;
+  font-size: var(--label-size);
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.logo20 {
+  position: absolute;
+  height: 44.39%;
+  width: 27.86%;
+  top: 19.79%;
+  right: 131.85%;
+  bottom: 35.83%;
+  left: -59.72%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.quick-links21 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.contact-us14,
+.explore11,
+.home32,
+.privacy-policy10,
+.quick-links21,
+.write-to-us10 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home32 {
+  top: 25.13%;
+  color: var(--color-white);
+}
+.contact-us14,
+.explore11,
+.privacy-policy10,
+.write-to-us10 {
+  top: 46.52%;
+}
+.contact-us14,
+.privacy-policy10,
+.write-to-us10 {
+  top: 67.91%;
+}
+.contact-us14,
+.privacy-policy10 {
+  top: 89.3%;
+}
+.privacy-policy10 {
+  top: 110.7%;
+  display: none;
+}
+.quick-links20 {
+  position: absolute;
+  height: 100%;
+  width: 18.49%;
+  top: 0;
+  right: 81.51%;
+  bottom: 0;
+  left: 0;
+}
+.popular-destination10 {
+  position: absolute;
+  top: 43.93%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.vacation-packages10 {
+  position: absolute;
+  top: 81.31%;
+}
+.gallery10,
+.list-of-tours10,
+.vacation-packages10 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.list-of-tours10 {
+  position: absolute;
+  top: 118.69%;
+  display: none;
+}
+.gallery10 {
+  top: 156.07%;
+}
+.features20,
+.gallery10,
+.travel-on-a10 {
+  position: absolute;
+  display: none;
+}
+.travel-on-a10 {
+  top: 193.46%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.features20 {
+  height: 57.22%;
+  width: 22.35%;
+  top: 0;
+  right: 40.72%;
+  bottom: 42.78%;
+  left: 36.94%;
+}
+.icons8-facebook-32-110 {
+  position: absolute;
+  height: 40.51%;
+  width: 27.15%;
+  top: 52.03%;
+  right: 72.85%;
+  bottom: 7.47%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icons8-instagram-circle-120,
+.icons8-twitter-110 {
+  position: absolute;
+  height: 37.97%;
+  width: 25.43%;
+  top: 51.9%;
+  right: 38.15%;
+  bottom: 10.13%;
+  left: 36.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons8-twitter-110 {
+  height: 56.96%;
+  width: 38.15%;
+  top: 43.04%;
+  right: 0;
+  bottom: 0;
+  left: 61.85%;
+}
+.follow-us10,
+.icon10 {
+  position: absolute;
+  top: 0;
+}
+.follow-us10 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.icon10 {
+  height: 42.25%;
+  width: 18.79%;
+  right: 0;
+  bottom: 57.75%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-121 {
+  position: absolute;
+  height: 16.04%;
+  width: 4.78%;
+  top: 46.52%;
+  right: 20.22%;
+  bottom: 37.43%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav10 {
+  position: absolute;
+  height: 46.87%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.62%;
+  bottom: 31.58%;
+  left: 35.77%;
+}
+.bottom20 {
+  width: 100%;
+  position: relative;
+  height: 399px;
+  text-align: left;
+  font-size: var(--label-size);
+  color: var(--b6);
+  font-family: var(--font-advent-pro);
+}

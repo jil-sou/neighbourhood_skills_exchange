@@ -1,0 +1,253 @@
+.any-question-or,
+.contact-us9 {
+  position: absolute;
+  top: 0;
+  left: 126px;
+}
+.any-question-or {
+  top: 70px;
+  left: 0;
+  font-size: var(--input-size);
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  text-align: center;
+}
+.contact-us-parent,
+.group-child {
+  position: absolute;
+  top: 145px;
+  left: 501px;
+  width: 462px;
+  height: 97px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 60px 30px rgba(0, 0, 0, 0.03);
+  width: 1196px;
+  height: 667px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 80px;
+  left: 30px;
+  width: 475px;
+  height: 475px;
+  object-fit: cover;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1196px;
+  height: 667px;
+}
+.group-item {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  max-height: 100%;
+  width: 278px;
+}
+.group-inner {
+  position: absolute;
+  top: 32px;
+  left: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 11.5px;
+}
+.first-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.group-div,
+.vector-container,
+.vector-group {
+  position: absolute;
+  top: 60px;
+  left: 571px;
+  width: 278px;
+  height: 55px;
+}
+.group-div,
+.vector-container {
+  top: 160px;
+}
+.group-div {
+  top: 60px;
+  left: 900px;
+  color: var(--b1);
+}
+.group-child3 {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  max-height: 100%;
+  width: 595px;
+}
+.write-your-message {
+  position: absolute;
+  top: 25.5px;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 149px;
+  height: 20.4px;
+}
+.vector-parent1 {
+  position: absolute;
+  top: 360px;
+  left: 571px;
+  width: 595px;
+  height: 56px;
+}
+.group-wrapper,
+.vector-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 278px;
+  height: 55px;
+}
+.group-wrapper {
+  top: 160px;
+  left: 900px;
+  color: var(--b1);
+}
+.general-inquiry,
+.select-subject {
+  position: absolute;
+  top: 0;
+  line-height: 20px;
+  display: inline-block;
+  height: 20.4px;
+}
+.select-subject {
+  left: 0;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  width: 109px;
+}
+.general-inquiry {
+  left: 23px;
+  width: 92px;
+}
+.teenyiconstick-circle-solid {
+  position: absolute;
+  top: 4.1px;
+  left: 0;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+}
+.general-inquiry-parent,
+.user-complaint {
+  position: absolute;
+  top: 34.6px;
+  left: 0;
+  width: 115px;
+  height: 20.4px;
+}
+.user-complaint {
+  top: 0;
+  left: 27px;
+  line-height: 20px;
+  display: inline-block;
+  width: 99px;
+  height: 20px;
+}
+.teenyiconstick-circle-solid1 {
+  position: absolute;
+  top: 3.7px;
+  left: 0;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+}
+.bug-parent,
+.user-complaint-parent {
+  position: absolute;
+  top: 35px;
+  left: 139px;
+  width: 126px;
+  height: 20px;
+}
+.bug-parent {
+  top: 34.6px;
+  left: 282px;
+  width: 115px;
+  height: 20.4px;
+}
+.select-subject-parent {
+  position: absolute;
+  top: 260px;
+  left: 571px;
+  width: 397px;
+  height: 55px;
+  color: var(--b1);
+}
+.send-message {
+  position: relative;
+  font-weight: 500;
+}
+.send-message-wrapper {
+  position: absolute;
+  top: 461px;
+  left: 968px;
+  border-radius: var(--br-8xs);
+  background-color: var(--b1);
+  box-shadow: 0 0 14px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-29xl);
+  text-align: center;
+  font-size: var(--label-size);
+  color: var(--color-white);
+}
+.group-parent {
+  position: absolute;
+  top: 292px;
+  left: 122px;
+  width: 1196px;
+  height: 667px;
+  font-size: var(--validation-size);
+  color: var(--color-gray-200);
+}
+.letter-send-1-icon {
+  position: absolute;
+  top: 780px;
+  left: 947.9px;
+  width: 264.8px;
+  height: 217px;
+  object-fit: contain;
+}
+.logo-here {
+  position: absolute;
+  top: 102px;
+  left: 390px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.contact-us8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 1440px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--b1);
+  font-family: var(--validation);
+}

@@ -1,0 +1,192 @@
+.start-skill-exchange {
+  position: absolute;
+  top: 369px;
+  left: 487px;
+  text-transform: capitalize;
+  font-weight: 600;
+  text-align: center;
+}
+.image-icon {
+  position: absolute;
+  top: 562px;
+  left: 839px;
+  border-radius: 20px;
+  width: 650px;
+  height: 498px;
+  object-fit: cover;
+}
+.sign-up-by {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  font-size: var(--label-size);
+  text-transform: capitalize;
+  color: var(--b5);
+}
+.des1,
+.sign-up-parent {
+  position: absolute;
+  top: 4px;
+  left: 70px;
+  width: 419px;
+  height: 67px;
+}
+.des1 {
+  top: 0;
+  left: 0;
+  width: 489px;
+  height: 71px;
+}
+.choose-your-desired,
+.choose-your-desired1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+}
+.choose-your-desired1 {
+  top: 29px;
+  font-size: var(--label-size);
+  color: var(--b5);
+  display: inline-block;
+  width: 350px;
+  height: 38px;
+}
+.des2 {
+  position: absolute;
+  top: 111px;
+  left: 10px;
+  width: 489px;
+  height: 71px;
+}
+.start-connecting-with {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.start-communication-with {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  font-size: var(--label-size);
+  text-transform: capitalize;
+  color: var(--b5);
+  display: inline-block;
+  width: 365px;
+}
+.ad,
+.des3 {
+  position: absolute;
+  top: 222px;
+  left: 10px;
+  width: 489px;
+  height: 71px;
+}
+.ad {
+  top: 666px;
+  left: 277px;
+  width: 499px;
+  height: 293px;
+  font-size: var(--font-size-5xl);
+  color: var(--p1);
+}
+.skillshare-logo-1-icon3 {
+  position: absolute;
+  top: 87px;
+  left: 114px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.home20 {
+  position: relative;
+  text-transform: capitalize;
+}
+.nav1-child9 {
+  width: 16px;
+  position: relative;
+  border-top: 1px solid var(--b1);
+  box-sizing: border-box;
+  height: 1px;
+}
+.nav112 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav1-child10 {
+  width: 3px;
+  position: relative;
+  border-top: 1px solid var(--b1);
+  box-sizing: border-box;
+  height: 1px;
+  opacity: 0;
+}
+.nav-bar9 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 55px;
+}
+.signup7 {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.signup6 {
+  position: absolute;
+  top: 0;
+  left: 698px;
+  border-radius: var(--br-8xs);
+  background-color: var(--p1);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-mini);
+  color: var(--color-white);
+}
+.login3 {
+  position: absolute;
+  top: 5px;
+  left: 599px;
+  font-size: var(--input-size);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--p1);
+}
+.nav-bar8 {
+  position: absolute;
+  top: 103px;
+  left: 776px;
+  width: 786px;
+  height: 34px;
+  font-size: var(--label-size);
+  color: var(--b1);
+  font-family: var(--validation);
+}
+.about-us-child {
+  position: absolute;
+  top: 684px;
+  left: 304px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 25px;
+  height: 25px;
+}
+.about-us1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--b2);
+  font-family: var(--font-advent-pro);
+}

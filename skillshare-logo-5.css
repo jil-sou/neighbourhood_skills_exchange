@@ -1,0 +1,9 @@
+.skillshare-logo-5 {
+  width: 100%;
+  position: relative;
+  height: 100px;
+  background-image: url(./public/skillshare-logo-5@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

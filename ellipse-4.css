@@ -1,0 +1,7 @@
+.ellipse-div1 {
+  width: 100%;
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  height: 25px;
+}

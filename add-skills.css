@@ -1,0 +1,640 @@
+.home34 {
+  position: relative;
+  text-transform: capitalize;
+}
+.nav1-child17 {
+  width: 3px;
+  position: relative;
+  border-top: 1px solid var(--b1);
+  box-sizing: border-box;
+  height: 1px;
+  opacity: 0;
+}
+.nav120 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav1-child18 {
+  width: 16px;
+  position: relative;
+  border-top: 1px solid var(--b1);
+  box-sizing: border-box;
+  height: 1px;
+}
+.nav-bar13 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 55px;
+}
+.signup11 {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.signup10 {
+  position: absolute;
+  top: 0;
+  left: 698px;
+  border-radius: var(--br-8xs);
+  background-color: var(--p1);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-mini);
+  color: var(--color-white);
+}
+.login5 {
+  position: absolute;
+  top: 5px;
+  left: 599px;
+  font-size: var(--input-size);
+  text-transform: capitalize;
+  font-weight: 600;
+  color: var(--p1);
+}
+.nav-bar12 {
+  position: absolute;
+  top: 46px;
+  left: 508px;
+  width: 786px;
+  height: 34px;
+  color: var(--b1);
+}
+.search2 {
+  position: absolute;
+  top: 609px;
+  left: 167px;
+  border-radius: var(--br-8xs);
+  background-color: var(--p1);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-mini);
+  color: var(--color-white);
+}
+.skillshare-logo-1-icon4 {
+  position: absolute;
+  top: 55px;
+  left: 101px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.setup-profile {
+  position: absolute;
+  top: 230px;
+  left: 582px;
+  font-size: var(--font-size-29xl);
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: var(--font-advent-pro);
+  color: var(--b2);
+  text-align: center;
+}
+.label10,
+.label11 {
+  position: relative;
+  line-height: 20px;
+}
+.label11 {
+  width: 8px;
+  color: var(--denotative-error-600);
+  display: none;
+}
+.label9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 4px;
+  color: var(--layout-800);
+}
+.leading-icon2 {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.l-leading-icon2 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.prefix5 {
+  position: relative;
+  line-height: 22px;
+}
+.prefix4 {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.default2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.input-text2,
+.left-container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.input-text2 {
+  flex: 1;
+}
+.left-container2 {
+  width: 236px;
+  gap: 0 4px;
+}
+.suffix4 {
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.r-trailing-icon2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  mix-blend-mode: normal;
+}
+.right-container2 {
+  justify-content: flex-end;
+  gap: 0 6px;
+}
+.container2,
+.placeholder2,
+.right-container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.placeholder2 {
+  flex: 1;
+  justify-content: space-between;
+}
+.container2 {
+  width: 294px;
+  border-radius: var(--br-9xs);
+  background-color: var(--g4);
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--input-size);
+}
+.help2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 16px;
+}
+.validation-text2 {
+  width: 103px;
+  position: relative;
+  height: 18px;
+  display: none;
+  font-size: var(--validation-size);
+}
+.input-component2,
+.label12 {
+  position: absolute;
+  top: 339px;
+  left: 173.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+}
+.label12 {
+  top: 475px;
+  flex-direction: row;
+  gap: 0 4px;
+  color: var(--layout-800);
+}
+.label17 {
+  position: relative;
+  line-height: 20px;
+  color: var(--denotative-error-600);
+}
+.label15 {
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 4px;
+  color: var(--layout-800);
+}
+.l-leading-icon3,
+.r-trailing-icon3 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.l-leading-icon3 {
+  display: flex;
+}
+.r-trailing-icon3 {
+  display: none;
+  mix-blend-mode: normal;
+}
+.container3,
+.input-component3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.container3 {
+  width: 294px;
+  border-radius: var(--br-9xs);
+  background-color: var(--layout-300);
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+  font-size: var(--input-size);
+}
+.input-component3 {
+  position: absolute;
+  top: 499px;
+  left: 171px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px 0;
+}
+.bottom25,
+.v-yage12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bottom25 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--p1);
+}
+.v-yage12 {
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.reshot-icon-travel-abroad-uhrq12 {
+  position: absolute;
+  top: 10px;
+  left: 27px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.get-out-and12,
+.logo25 {
+  position: absolute;
+  left: 0;
+}
+.logo25 {
+  top: 0;
+  width: 165px;
+  height: 59px;
+}
+.get-out-and12 {
+  top: 63px;
+  font-size: var(--label-size);
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.logo24 {
+  position: absolute;
+  height: 44.39%;
+  width: 27.87%;
+  top: 19.79%;
+  right: 131.85%;
+  bottom: 35.83%;
+  left: -59.71%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.quick-links25 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.contact-us16,
+.explore13,
+.home38,
+.privacy-policy12,
+.quick-links25,
+.write-to-us12 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home38 {
+  top: 25.13%;
+  color: var(--color-white);
+}
+.contact-us16,
+.explore13,
+.privacy-policy12,
+.write-to-us12 {
+  top: 46.52%;
+}
+.contact-us16,
+.privacy-policy12,
+.write-to-us12 {
+  top: 67.91%;
+}
+.contact-us16,
+.privacy-policy12 {
+  top: 89.3%;
+}
+.privacy-policy12 {
+  top: 110.7%;
+  display: none;
+}
+.quick-links24 {
+  position: absolute;
+  height: 100%;
+  width: 19.11%;
+  top: 0;
+  right: 80.89%;
+  bottom: 0;
+  left: 0;
+}
+.popular-destination12 {
+  position: absolute;
+  top: 43.93%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.vacation-packages12 {
+  position: absolute;
+  top: 81.31%;
+}
+.gallery12,
+.list-of-tours12,
+.vacation-packages12 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.list-of-tours12 {
+  position: absolute;
+  top: 118.69%;
+  display: none;
+}
+.gallery12 {
+  top: 156.07%;
+}
+.features24,
+.gallery12,
+.travel-on-a12 {
+  position: absolute;
+  display: none;
+}
+.travel-on-a12 {
+  top: 193.46%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.features24 {
+  height: 57.22%;
+  width: 23.09%;
+  top: 0;
+  right: 39.97%;
+  bottom: 42.78%;
+  left: 36.94%;
+}
+.icons8-facebook-32-112 {
+  position: absolute;
+  height: 40.51%;
+  width: 27.12%;
+  top: 52.03%;
+  right: 72.88%;
+  bottom: 7.47%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icons8-instagram-circle-124,
+.icons8-twitter-112 {
+  position: absolute;
+  height: 37.97%;
+  width: 25.42%;
+  top: 51.9%;
+  right: 38.14%;
+  bottom: 10.13%;
+  left: 36.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons8-twitter-112 {
+  height: 56.96%;
+  width: 38.14%;
+  top: 43.04%;
+  right: 0;
+  bottom: 0;
+  left: 61.86%;
+}
+.follow-us12,
+.icon12 {
+  position: absolute;
+  top: 0;
+}
+.follow-us12 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.icon12 {
+  height: 42.25%;
+  width: 18.79%;
+  right: 0;
+  bottom: 57.75%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-125 {
+  position: absolute;
+  height: 16.04%;
+  width: 4.78%;
+  top: 46.52%;
+  right: 20.22%;
+  bottom: 37.43%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav12 {
+  position: absolute;
+  height: 46.87%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.63%;
+  bottom: 31.58%;
+  left: 35.76%;
+}
+.bottom24 {
+  position: absolute;
+  top: 832px;
+  left: 4px;
+  width: 1440px;
+  height: 399px;
+  color: var(--b6);
+  font-family: var(--font-advent-pro);
+}
+.skillshare-logo-3-icon3 {
+  position: absolute;
+  top: 975px;
+  left: 147px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.logo26 {
+  position: absolute;
+  height: 36.56%;
+  width: 27.87%;
+  top: 16.3%;
+  right: 131.85%;
+  bottom: 47.14%;
+  left: -59.71%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.contact-us17,
+.explore14,
+.home39,
+.privacy-policy13,
+.write-to-us13 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home39 {
+  top: 20.7%;
+  color: var(--color-white);
+}
+.contact-us17,
+.explore14,
+.privacy-policy13,
+.write-to-us13 {
+  top: 38.33%;
+}
+.contact-us17,
+.privacy-policy13,
+.write-to-us13 {
+  top: 55.95%;
+}
+.contact-us17,
+.privacy-policy13 {
+  top: 73.57%;
+}
+.privacy-policy13 {
+  top: 91.19%;
+}
+.features26,
+.icon13,
+.quick-links26 {
+  position: absolute;
+  height: 100%;
+  width: 18.95%;
+  top: 0;
+  right: 81.05%;
+  bottom: 0;
+  left: 0;
+}
+.features26,
+.icon13 {
+  height: 47.14%;
+  width: 19.27%;
+  right: 43.79%;
+  bottom: 52.86%;
+  left: 36.94%;
+}
+.icon13 {
+  height: 34.8%;
+  width: 18.79%;
+  right: 0;
+  bottom: 65.2%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-127 {
+  position: absolute;
+  height: 13.22%;
+  width: 4.78%;
+  top: 38.33%;
+  right: 20.22%;
+  bottom: 48.46%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav13 {
+  position: absolute;
+  height: 56.89%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.63%;
+  bottom: 21.55%;
+  left: 35.76%;
+}
+.input-component4,
+.input-component5 {
+  position: absolute;
+  top: 339px;
+  left: 578px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+}
+.input-component5 {
+  top: 473px;
+  left: 582px;
+}
+.add-skills {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1223px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--label-size);
+  color: var(--layout-700);
+  font-family: var(--validation);
+}

@@ -1,0 +1,349 @@
+.create-account-child {
+  position: absolute;
+  bottom: 71.2px;
+  left: 93px;
+  width: 730.6px;
+  height: 468.8px;
+}
+.create-account-item {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: -169px;
+  bottom: 0;
+  border-radius: var(--br-22xl);
+  background-color: var(--f-w);
+  width: 844px;
+}
+.about {
+  position: relative;
+  letter-spacing: 0.08em;
+}
+.home-group,
+.nav-bar3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.home-group {
+  height: 28px;
+  align-items: flex-start;
+  padding: 0 var(--padding-31xl);
+  gap: 0 60px;
+}
+.nav-bar3 {
+  position: absolute;
+  top: 79px;
+  left: -64px;
+  width: 944px;
+  height: 46px;
+  align-items: center;
+  padding: 0 0 0 var(--padding-37xl);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-source-sans-3);
+}
+.already-hava-a-account-child {
+  width: 29px;
+  position: relative;
+  max-height: 100%;
+}
+.account {
+  font-size: var(--input-size);
+}
+.span {
+  color: var(--p);
+}
+.span1 {
+  color: var(--color-gray-300);
+}
+.already-have-an-container {
+  position: relative;
+}
+.already-hava-a-account {
+  position: absolute;
+  top: 90px;
+  right: 20px;
+  width: 612px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--padding-31xl) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-mid);
+  color: var(--color-gray-300);
+  font-family: var(--font-source-sans-3);
+}
+.skill-sharing {
+  color: var(--color-white);
+}
+.sign-up-now,
+.start-your-skill-container {
+  width: 712px;
+  position: relative;
+  display: inline-block;
+  height: 80px;
+  flex-shrink: 0;
+}
+.sign-up-now {
+  width: 430px;
+  font-size: var(--font-size-xl);
+  height: 82px;
+}
+.start-your-fitness {
+  position: absolute;
+  top: 181px;
+  left: 74px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-29xl);
+}
+.lets-get-you-container {
+  position: relative;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+}
+.lets-get-you-started {
+  position: absolute;
+  top: 200px;
+  right: 134px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-21xl);
+}
+.search-1-icon1 {
+  width: 25px;
+  position: relative;
+  height: 25px;
+  object-fit: cover;
+}
+.sign-up-with2 {
+  width: 119px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  flex-shrink: 0;
+}
+.search-1-group {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-5xl) 0 var(--padding-xl);
+  gap: 0 8px;
+}
+.search-1-group,
+.sign-up-with3,
+.sign-up1 {
+  display: flex;
+  align-items: center;
+}
+.sign-up-with3 {
+  width: 132px;
+  position: relative;
+  height: 40px;
+  flex-shrink: 0;
+}
+.sign-up1 {
+  position: absolute;
+  top: 313px;
+  left: 926px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0 47px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-source-sans-3);
+}
+.frame-inner {
+  width: 203px;
+  position: relative;
+  height: 1px;
+}
+.or {
+  position: relative;
+  letter-spacing: 0.09em;
+  line-height: 77px;
+}
+.frame-child1 {
+  width: 204px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 1px;
+}
+.full-name1,
+.vector-parent {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.vector-parent {
+  top: calc(50% - 126px);
+  right: 126px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 0 22px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.full-name1 {
+  top: 0;
+  left: 0;
+  width: 101px;
+  height: 30px;
+}
+.full-name,
+.full-name-child {
+  position: absolute;
+  width: 459px;
+}
+.full-name-child {
+  top: 29.6px;
+  left: 0;
+  height: 3.3px;
+  object-fit: contain;
+}
+.full-name {
+  height: calc(100% - 949.1px);
+  top: 458px;
+  right: 127px;
+  bottom: 491.1px;
+  color: var(--poppins);
+}
+.email-address {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 144px;
+  height: 30px;
+}
+.line-icon {
+  position: absolute;
+  top: 29.9px;
+  left: 0;
+  width: 459px;
+  height: 3.3px;
+  object-fit: contain;
+}
+.email-address-parent {
+  position: absolute;
+  height: calc(100% - 948.8px);
+  top: 533.9px;
+  right: 126px;
+  bottom: 414.9px;
+  width: 459px;
+  color: var(--poppins);
+}
+.password1 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 99px;
+  height: 29px;
+}
+.frame-child2 {
+  position: absolute;
+  top: 30.2px;
+  left: 0;
+  width: 459px;
+  height: 3.3px;
+  object-fit: contain;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 53.73%;
+  width: 6.32%;
+  top: 2.99%;
+  right: 1.09%;
+  bottom: 43.28%;
+  left: 92.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.password-parent {
+  position: absolute;
+  height: calc(100% - 948.5px);
+  top: 610.1px;
+  right: 126px;
+  bottom: 338.4px;
+  width: 459px;
+  color: var(--poppins);
+}
+.rectangle-div {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: transparent;
+  border: 1.5px solid var(--poppins);
+  box-sizing: border-box;
+  width: 29px;
+  height: 28px;
+}
+.i-accepted-the-container1 {
+  width: 100%;
+}
+.i-accepted-the-container {
+  position: absolute;
+  top: 0;
+  left: 57px;
+  display: flex;
+  align-items: center;
+  width: 425px;
+  height: 28px;
+  filter: drop-shadow(0 1px 8px rgba(160, 160, 160, 0.75));
+}
+.rectangle-parent {
+  position: absolute;
+  height: calc(100% - 953px);
+  top: 686.7px;
+  right: 102px;
+  bottom: 266.3px;
+  width: 482px;
+  font-size: var(--font-size-mid);
+}
+.create-an-account1 {
+  position: relative;
+  letter-spacing: 0.09em;
+  line-height: 77px;
+  font-weight: 600;
+}
+.button2,
+.create-account {
+  border-radius: var(--br-3xs);
+  background-color: var(--p);
+}
+.button2 {
+  position: absolute;
+  right: 163px;
+  bottom: 127px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-81xl);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-source-sans-3);
+}
+.create-account {
+  width: 100%;
+  position: relative;
+  box-shadow: 6px 6px 11px rgba(160, 160, 160, 0.5);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--b1);
+  font-family: var(--validation);
+}

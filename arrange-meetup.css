@@ -1,0 +1,583 @@
+.arrange-meetup1,
+.wanna-plan-a {
+  position: absolute;
+  top: 0;
+  left: 11px;
+}
+.wanna-plan-a {
+  top: 70px;
+  left: 0;
+  font-size: var(--input-size);
+  font-weight: 500;
+  color: var(--color-dimgray-100);
+  text-align: center;
+}
+.arrange-meetup-parent {
+  position: absolute;
+  top: 145px;
+  left: 616px;
+  width: 359px;
+  height: 97px;
+  font-size: var(--font-size-21xl);
+  color: var(--b1);
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 60px 30px rgba(0, 0, 0, 0.03);
+  width: 1196px;
+  height: 667px;
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 80px;
+  left: 30px;
+  width: 475px;
+  height: 475px;
+  object-fit: cover;
+}
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1196px;
+  height: 667px;
+}
+.group-child6 {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  max-height: 100%;
+  width: 278px;
+}
+.group-child7 {
+  position: absolute;
+  top: 32px;
+  left: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 11.5px;
+}
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+}
+.vector-parent3,
+.vector-parent4,
+.vector-parent5 {
+  position: absolute;
+  top: 60px;
+  left: 571px;
+  width: 278px;
+  height: 55px;
+}
+.vector-parent4,
+.vector-parent5 {
+  top: 160px;
+}
+.vector-parent5 {
+  top: 60px;
+  left: 900px;
+  color: var(--b1);
+}
+.group-child10 {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  max-height: 100%;
+  width: 595px;
+}
+.write-your-message1 {
+  position: absolute;
+  top: 25.5px;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 149px;
+  height: 20.4px;
+}
+.vector-parent6 {
+  position: absolute;
+  top: 360px;
+  left: 571px;
+  width: 595px;
+  height: 56px;
+}
+.group-frame,
+.vector-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 278px;
+  height: 55px;
+}
+.group-frame {
+  top: 160px;
+  left: 900px;
+  color: var(--b1);
+}
+.online-meetup,
+.select-mode {
+  position: absolute;
+  top: 0;
+  line-height: 20px;
+  display: inline-block;
+  height: 20.4px;
+}
+.select-mode {
+  left: 0;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  width: 109px;
+}
+.online-meetup {
+  left: 23px;
+  width: 92px;
+}
+.teenyiconstick-circle-solid3 {
+  position: absolute;
+  top: 4.1px;
+  left: 0;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+}
+.offline-meetup,
+.online-meetup-parent {
+  position: absolute;
+  top: 34.6px;
+  left: 0;
+  width: 115px;
+  height: 20.4px;
+}
+.offline-meetup {
+  top: 0;
+  left: 27px;
+  line-height: 20px;
+  display: inline-block;
+  width: 99px;
+  height: 20px;
+}
+.teenyiconstick-circle-solid4 {
+  position: absolute;
+  top: 3.7px;
+  left: 0;
+  width: 13px;
+  height: 13.2px;
+  overflow: hidden;
+}
+.offline-meetup-parent {
+  position: absolute;
+  top: 35px;
+  left: 139px;
+  width: 126px;
+  height: 20px;
+}
+.select-mode-parent {
+  position: absolute;
+  top: 260px;
+  left: 571px;
+  width: 295px;
+  height: 55px;
+  color: var(--b1);
+}
+.submit {
+  position: relative;
+  font-weight: 500;
+}
+.submit-wrapper {
+  position: absolute;
+  top: 461px;
+  left: 968px;
+  border-radius: var(--br-8xs);
+  background-color: var(--b1);
+  box-shadow: 0 0 14px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-29xl);
+  text-align: center;
+  font-size: var(--label-size);
+  color: var(--color-white);
+}
+.group-container {
+  position: absolute;
+  top: 292px;
+  left: 122px;
+  width: 1196px;
+  height: 667px;
+  font-size: var(--validation-size);
+  color: var(--color-gray-200);
+}
+.letter-send-1-icon1 {
+  position: absolute;
+  top: 780px;
+  left: 947.9px;
+  width: 264.8px;
+  height: 217px;
+  object-fit: contain;
+}
+.logo-here1 {
+  position: absolute;
+  top: 102px;
+  left: 390px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+}
+.bottom13,
+.v-yage6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bottom13 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--p1);
+}
+.v-yage6 {
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.reshot-icon-travel-abroad-uhrq6 {
+  position: absolute;
+  top: 10px;
+  left: 27px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.get-out-and6,
+.logo13 {
+  position: absolute;
+  left: 0;
+}
+.logo13 {
+  top: 0;
+  width: 165px;
+  height: 59px;
+}
+.get-out-and6 {
+  top: 63px;
+  font-size: var(--label-size);
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.logo12 {
+  position: absolute;
+  height: 44.39%;
+  width: 27.87%;
+  top: 19.79%;
+  right: 131.85%;
+  bottom: 35.83%;
+  left: -59.71%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.quick-links13 {
+  top: 0;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.contact-us10,
+.explore7,
+.home24,
+.privacy-policy6,
+.quick-links13,
+.write-to-us6 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home24 {
+  top: 25.13%;
+  color: var(--color-white);
+}
+.contact-us10,
+.explore7,
+.privacy-policy6,
+.write-to-us6 {
+  top: 46.52%;
+}
+.contact-us10,
+.privacy-policy6,
+.write-to-us6 {
+  top: 67.91%;
+}
+.contact-us10,
+.privacy-policy6 {
+  top: 89.3%;
+}
+.privacy-policy6 {
+  top: 110.7%;
+  display: none;
+}
+.quick-links12 {
+  position: absolute;
+  height: 100%;
+  width: 19.11%;
+  top: 0;
+  right: 80.89%;
+  bottom: 0;
+  left: 0;
+}
+.popular-destination6 {
+  position: absolute;
+  top: 43.93%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.vacation-packages6 {
+  position: absolute;
+  top: 81.31%;
+}
+.gallery6,
+.list-of-tours6,
+.vacation-packages6 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.list-of-tours6 {
+  position: absolute;
+  top: 118.69%;
+  display: none;
+}
+.gallery6 {
+  top: 156.07%;
+}
+.features12,
+.gallery6,
+.travel-on-a6 {
+  position: absolute;
+  display: none;
+}
+.travel-on-a6 {
+  top: 193.46%;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.features12 {
+  height: 57.22%;
+  width: 23.09%;
+  top: 0;
+  right: 39.97%;
+  bottom: 42.78%;
+  left: 36.94%;
+}
+.icons8-facebook-32-16 {
+  position: absolute;
+  height: 40.51%;
+  width: 27.12%;
+  top: 52.03%;
+  right: 72.88%;
+  bottom: 7.47%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icons8-instagram-circle-112,
+.icons8-twitter-16 {
+  position: absolute;
+  height: 37.97%;
+  width: 25.42%;
+  top: 51.9%;
+  right: 38.14%;
+  bottom: 10.13%;
+  left: 36.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icons8-twitter-16 {
+  height: 56.96%;
+  width: 38.14%;
+  top: 43.04%;
+  right: 0;
+  bottom: 0;
+  left: 61.86%;
+}
+.follow-us6,
+.icon6 {
+  position: absolute;
+  top: 0;
+}
+.follow-us6 {
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.icon6 {
+  height: 42.25%;
+  width: 18.79%;
+  right: 0;
+  bottom: 57.75%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-113 {
+  position: absolute;
+  height: 16.04%;
+  width: 4.78%;
+  top: 46.52%;
+  right: 20.22%;
+  bottom: 37.43%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav6 {
+  position: absolute;
+  height: 46.87%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.63%;
+  bottom: 31.58%;
+  left: 35.76%;
+}
+.bottom12 {
+  position: absolute;
+  top: 1041px;
+  left: 24px;
+  width: 1440px;
+  height: 399px;
+  font-family: var(--font-advent-pro);
+}
+.skillshare-logo-3-icon2 {
+  position: absolute;
+  top: 1184px;
+  left: 167px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.logo14 {
+  position: absolute;
+  height: 36.56%;
+  width: 27.87%;
+  top: 16.3%;
+  right: 131.85%;
+  bottom: 47.14%;
+  left: -59.71%;
+  display: none;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.contact-us11,
+.explore8,
+.home25,
+.privacy-policy7,
+.write-to-us7 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.08em;
+  line-height: 122.34%;
+  font-weight: 500;
+}
+.home25 {
+  top: 20.7%;
+  color: var(--color-white);
+}
+.contact-us11,
+.explore8,
+.privacy-policy7,
+.write-to-us7 {
+  top: 38.33%;
+}
+.contact-us11,
+.privacy-policy7,
+.write-to-us7 {
+  top: 55.95%;
+}
+.contact-us11,
+.privacy-policy7 {
+  top: 73.57%;
+}
+.privacy-policy7 {
+  top: 91.19%;
+}
+.features14,
+.icon7,
+.quick-links14 {
+  position: absolute;
+  height: 100%;
+  width: 18.95%;
+  top: 0;
+  right: 81.05%;
+  bottom: 0;
+  left: 0;
+}
+.features14,
+.icon7 {
+  height: 47.14%;
+  width: 19.27%;
+  right: 43.79%;
+  bottom: 52.86%;
+  left: 36.94%;
+}
+.icon7 {
+  height: 34.8%;
+  width: 18.79%;
+  right: 0;
+  bottom: 65.2%;
+  left: 81.21%;
+  font-size: var(--font-size-5xl);
+  color: var(--b2);
+}
+.icons8-instagram-circle-115 {
+  position: absolute;
+  height: 13.22%;
+  width: 4.78%;
+  top: 38.33%;
+  right: 20.22%;
+  bottom: 48.46%;
+  left: 75%;
+  overflow: hidden;
+}
+.bottomnav7 {
+  position: absolute;
+  height: 56.89%;
+  width: 43.61%;
+  top: 21.55%;
+  right: 20.63%;
+  bottom: 21.55%;
+  left: 35.76%;
+}
+.arrange-meetup {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-100);
+  height: 1440px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--label-size);
+  color: var(--b6);
+  font-family: var(--validation);
+}

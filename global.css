@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-advent-pro: "Advent Pro";
+  --validation: Poppins;
+  --font-source-sans-3: "Source Sans 3";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --label-size: 16px;
+  --font-size-29xl: 48px;
+  --font-size-xl: 20px;
+  --input-size: 18px;
+  --font-size-sm: 14px;
+  --font-size-mid: 17px;
+  --font-size-lgi: 19px;
+  --font-size-21xl: 40px;
+  --validation-size: 12px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --b2: #333;
+  --b6: #c7c7c7;
+  --p1: #00a0b1;
+  --b1: #000;
+  --color-darkgray-100: #acadac;
+  --b5: #a1a1a1;
+  --poppins: #a0a0a0;
+  --p: #f38181;
+  --g4: #efefef;
+  --layout-300: #e1e1e1;
+  --color-gainsboro-100: #dfdfdf;
+  --color-gainsboro-200: #d9d9d9;
+  --f-w: #fbf8f3;
+  --color-gray-100: #fbfbfb;
+  --color-gray-200: #8d8d8d;
+  --color-gray-300: #232222;
+  --layout-800: #1a1a1a;
+  --color-dimgray-100: #717171;
+  --layout-700: #6b6b6b;
+  --denotative-error-600: #ff1f00;
+  --g3: #dfdbee;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-11xl: 30px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-8xs: 5px;
+  --padding-mini: 15px;
+  --padding-5xl: 24px;
+  --padding-xl: 20px;
+  --padding-81xl: 100px;
+  --padding-37xl: 56px;
+  --padding-31xl: 50px;
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-29xl: 48px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-22xl: 41px;
+  --br-9xs: 4px;
+}

@@ -1,0 +1,53 @@
+.rectangle-icon {
+  width: 274px;
+  position: relative;
+  border-radius: var(--br-mini);
+  height: 360px;
+  object-fit: cover;
+}
+.coding1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.description12 {
+  width: 52px;
+  position: relative;
+  height: 24px;
+}
+.card-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px 0;
+}
+.description13 {
+  width: 44px;
+  position: relative;
+  height: 24px;
+}
+.description14,
+.description15 {
+  width: 48px;
+  position: relative;
+  height: 24px;
+}
+.description15 {
+  width: 61px;
+}
+.card-hover3 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 20px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--b1);
+  font-family: var(--font-advent-pro);
+}
